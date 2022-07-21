@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Add sayobot download btn to Osu! website
 // @author       kongren
+// @updateURL    https://github.com/gakongren/OsuDownloadHelperScript/raw/main/Osu!DownloadHelperScript.user.js
 // @match        https://osu.ppy.sh/beatmapsets/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ppy.sh
 // @grant        GM_xmlhttpRequest
