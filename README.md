@@ -1,0 +1,2 @@
+# OsuDownloadHelperScript
+在osu谱面下载页增加从镜像站下载的按钮
